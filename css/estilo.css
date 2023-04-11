@@ -23,6 +23,11 @@ body{
     margin: 5px;
 
 }
+.caja{
+    display:flex;
+    padding:1rem;
+     
+        ]
 button{
     background-color:rgb(210, 238, 83);
     
